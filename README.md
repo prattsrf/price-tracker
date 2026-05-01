@@ -20,6 +20,12 @@ A partir do link de um produto, o programa acessa a página, coleta o preço atu
 
 ---
 
+### Gráfico de preços
+
+![Gráfico](./assets/grafico.png)
+
+---
+
 ## O que o projeto faz
 
 * Acessa páginas de produtos automaticamente
